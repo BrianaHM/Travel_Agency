@@ -1,0 +1,63 @@
+.nav-bgcolor{
+    background-color:indigo;
+    color:black;
+    text-align:center;
+    border-style:double;
+    border-width:10px;
+    border-color:darkgrey;
+   
+
+}
+.navbar{
+   
+  
+}
+.sleep{
+    font-size:100px;
+}
+.duck{
+    color:black;
+    font-size:30px;
+ 
+}
+.card {
+    border-style: double;
+ 
+    border-width:5px;
+    border-radius:10px;
+ 
+}
+
+
+.oia {
+    background-color:yellow;
+
+
+
+.jumbotron h1{
+    font-size:30px;
+    color:black;
+    border-color:indigo;
+    background-color:indigo;
+    border-style:double;
+    border-width:5px;
+    border-radius:10px;
+}
+.jumbotron {
+  background-color:black;
+    border-radius:0px;}
+.japan{
+        background-color:red;
+
+    
+}
+
+
+.Alberta{
+        background-color:blue;
+  
+}
+.Hamburg{
+        background-color:green;
+    
+}
